@@ -72,7 +72,7 @@ exports[`renders homepage unchanged 1`] = `
           </p>
         </a>
         <p>
-          1123
+          1123 thong test
         </p>
       </div>
     </main>

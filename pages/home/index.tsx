@@ -45,7 +45,7 @@ export default function Home() {
             </p>
           </a>
 
-          <p>1123</p>
+          <p>1123 thong test</p>
         </div>
       </main>
 
