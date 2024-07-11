@@ -41,9 +41,11 @@ export default function Home() {
           <a href="https://vercel.com/new" className={styles.card}>
             <h3>Deploy &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel. 1213
+              Instantly deploy your Next.js site to a public URL with Vercel.
             </p>
           </a>
+
+          <p>1123 thong test</p>
         </div>
       </main>
 
